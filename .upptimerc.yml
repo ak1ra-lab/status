@@ -6,7 +6,9 @@ sites:
   - name: Homepage
     url: https://ak1ra.xyz
   - name: Images
-    url: https://i.ak1ra.xyz/file/2022/09/sharex-logo.png
+    url: https://i.ak1ra.xyz
+    expectedStatusCodes:
+      - 404
   - name: GitHub Proxy
     url: https://gh.ak1ra.xyz
   - name: Wikipedia Mirror
@@ -15,6 +17,8 @@ sites:
     url: https://dl.ak1ra.xyz
   - name: Subconverter
     url: https://sub.ak1ra.xyz/version
+    expectedStatusCodes:
+      - 404
   - name: Docker Registry
     url: $GH_DOCKER_REGISTRY
 
@@ -25,13 +29,24 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "ak1ra-lab system status"
+  introMessage: |
+    **What is this page?**<br>
+    ak1ra-lab provides open and flexible to users via its global network. This is the system status for the ak1ra-lab service, both edge network and public services.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: light
+
+assignees:
+  - ak1ra-komj
+
+user-agent: ak1ra-lab/status
+
+i18n:
+  footer: © ak1ra-lab
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
