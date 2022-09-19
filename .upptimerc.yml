@@ -6,7 +6,7 @@ sites:
   - name: Homepage
     url: https://ak1ra.xyz
   - name: Images
-    url: https://i.ak1ra.xyz
+    url: https://i.ak1ra.xyz/file/2022/09/sharex-logo.png
   - name: GitHub Proxy
     url: https://gh.ak1ra.xyz
   - name: Wikipedia Mirror
@@ -14,7 +14,7 @@ sites:
   - name: Downloads
     url: https://dl.ak1ra.xyz
   - name: Subconverter
-    url: https://sub.ak1ra.xyz
+    url: https://sub.ak1ra.xyz/version
   - name: Docker Registry
     url: $GH_DOCKER_REGISTRY
 
