@@ -17,8 +17,6 @@ sites:
     url: https://dl.ak1ra.xyz
   - name: Subconverter
     url: https://sub.ak1ra.xyz/version
-    expectedStatusCodes:
-      - 404
   - name: Docker Registry
     url: $GH_DOCKER_REGISTRY
 
@@ -38,7 +36,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: light
 
 assignees:
   - ak1ra-komj
