@@ -40,7 +40,13 @@ status-website:
 assignees:
   - ak1ra-komj
 
+commitMessages:
+  commitAuthorName: "ak1ra-bot"
+  commitAuthorEmail: "bot@ak1ra.xyz"
+
 user-agent: ak1ra-lab/status
+
+robotsText: "User-agent: * \n Disallow: /"
 
 i18n:
   footer: © ak1ra-lab
