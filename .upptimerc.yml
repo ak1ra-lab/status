@@ -11,8 +11,8 @@ sites:
       - 404
   - name: GitHub Proxy
     url: https://gh.ak1ra.xyz
-  - name: Wikipedia Mirror
-    url: https://wp.ak1ra.xyz
+  - name: Wikipedia Proxy
+    url: https://wikipedia.ak1ra.xyz/www/
   - name: Downloads
     url: https://dl.ak1ra.xyz
   - name: Subconverter
