@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 320,
-    "timeDay": 113,
-    "timeWeek": 241,
-    "timeMonth": 338,
-    "timeYear": 320,
+    "time": 314,
+    "timeDay": 104,
+    "timeWeek": 223,
+    "timeMonth": 331,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2022-10-06": 13
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 124,
-    "timeWeek": 136,
-    "timeMonth": 142,
-    "timeYear": 174,
+    "time": 173,
+    "timeDay": 123,
+    "timeWeek": 134,
+    "timeMonth": 141,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 105,
-    "timeWeek": 96,
-    "timeMonth": 125,
-    "timeYear": 134,
+    "time": 137,
+    "timeDay": 172,
+    "timeWeek": 114,
+    "timeMonth": 129,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -66,32 +66,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 206,
-    "timeWeek": 240,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "time": 245,
+    "timeDay": 212,
+    "timeWeek": 237,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Downloads",
-    "url": "https://dl.ak1ra.xyz",
-    "icon": "https://icons.duckduckgo.com/ip3/dl.ak1ra.xyz.ico",
-    "slug": "downloads",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 252,
-    "timeWeek": 254,
-    "timeMonth": 256,
-    "timeYear": 263,
-    "dailyMinutesDown": {
-      "2022-10-20": 0
-    }
   },
   {
     "name": "Subconverter",
@@ -104,34 +84,14 @@
     "uptimeWeek": "98.24%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.59%",
-    "time": 765,
-    "timeDay": 823,
-    "timeWeek": 720,
-    "timeMonth": 758,
-    "timeYear": 765,
+    "time": 769,
+    "timeDay": 864,
+    "timeWeek": 738,
+    "timeMonth": 763,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2022-10-18": 177,
       "2022-09-19": 5
-    }
-  },
-  {
-    "name": "Docker Registry",
-    "url": "$GH_DOCKER_REGISTRY",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "docker-registry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 257,
-    "timeWeek": 230,
-    "timeMonth": 253,
-    "timeYear": 261,
-    "dailyMinutesDown": {
-      "2022-10-20": 0
     }
   }
 ]
