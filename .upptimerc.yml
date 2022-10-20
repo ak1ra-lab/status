@@ -13,12 +13,8 @@ sites:
     url: https://gh.ak1ra.xyz
   - name: Wikipedia Proxy
     url: https://wikipedia.ak1ra.xyz/www/
-  - name: Downloads
-    url: https://dl.ak1ra.xyz
   - name: Subconverter
     url: https://sub.ak1ra.xyz/version
-  - name: Docker Registry
-    url: $GH_DOCKER_REGISTRY
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
