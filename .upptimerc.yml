@@ -15,6 +15,8 @@ sites:
     url: https://wikipedia.ak1ra.xyz/www/
   - name: Subconverter
     url: https://sub.ak1ra.xyz/version
+  - name: Z Library Search
+    url: https://zlib.ak1ra.xyz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
